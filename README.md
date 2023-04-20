@@ -15,3 +15,4 @@ Run the following commands in your terminal:
 Now run "npm run start" command in your terminal. This will open a window in your default browser with the url localhost:3000. Incase if you get an error , search about it in the internet and resolve it.\
 Hence the project set-up is completed and you can use the appication now.\
 Watch the demo video to know how to use it.
+https://youtu.be/zryWInLP3co
